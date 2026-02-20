@@ -1,0 +1,6 @@
+mvenv/
+__pycache__/
+*.pyc
+.git/
+*.log
+*.json
